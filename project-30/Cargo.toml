@@ -1,0 +1,20 @@
+[package]
+name = "project-30"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ab_glyph_rasterizer = "0.1.10"
+bevy_ecs = "0.19.0"
+gl = "0.14.0"
+gl_loader = "0.1.2"
+glad = "0.0.0"
+glam = "0.33.2"
+image = "0.25.10"
+netcorehost = "0.22.0"
+num = "0.4.3"
+num-derive = "0.5.1"
+num-traits = "0.2.19"
+sdl3 = { version = "0.18.4", features = ["build-from-source"] }
+sdl3-src = "3.4.12"
+ttf-parser = "0.25.1"

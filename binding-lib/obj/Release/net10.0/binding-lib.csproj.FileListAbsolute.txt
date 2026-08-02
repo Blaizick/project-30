@@ -1,0 +1,13 @@
+C:\Projects\project-30\binding-lib\bin\Release\net10.0\binding-lib.deps.json
+C:\Projects\project-30\binding-lib\bin\Release\net10.0\binding-lib.runtimeconfig.json
+C:\Projects\project-30\binding-lib\bin\Release\net10.0\binding-lib.dll
+C:\Projects\project-30\binding-lib\bin\Release\net10.0\binding-lib.pdb
+C:\Projects\project-30\binding-lib\obj\Release\net10.0\binding-lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\project-30\binding-lib\obj\Release\net10.0\binding-lib.AssemblyInfoInputs.cache
+C:\Projects\project-30\binding-lib\obj\Release\net10.0\binding-lib.AssemblyInfo.cs
+C:\Projects\project-30\binding-lib\obj\Release\net10.0\binding-lib.csproj.CoreCompileInputs.cache
+C:\Projects\project-30\binding-lib\obj\Release\net10.0\binding-lib.dll
+C:\Projects\project-30\binding-lib\obj\Release\net10.0\refint\binding-lib.dll
+C:\Projects\project-30\binding-lib\obj\Release\net10.0\binding-lib.pdb
+C:\Projects\project-30\binding-lib\obj\Release\net10.0\binding-lib.genruntimeconfig.cache
+C:\Projects\project-30\binding-lib\obj\Release\net10.0\ref\binding-lib.dll
